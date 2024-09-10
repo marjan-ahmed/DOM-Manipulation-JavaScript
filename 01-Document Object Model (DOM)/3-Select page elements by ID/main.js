@@ -1,0 +1,1 @@
+const head = document.getElementById('header'); // Get the header element
